@@ -1,0 +1,11 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+
+  a:visited { color: blue; }
+  a:hover, a:active, a:focus { color: darkred; text-decoration: none; }
